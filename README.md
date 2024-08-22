@@ -41,4 +41,4 @@ This project is open source and available under the MIT License.
 Links
 #Original Website: https://www.sundown-studio.com/
 
-#Deployed Clone: sundown-academy.vercel.app
+#Deployed Clone: [sundown-academy.vercel.app](https://sundown-academy.vercel.app/)
